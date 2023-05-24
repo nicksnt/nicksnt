@@ -1,4 +1,4 @@
-<h2>Hi 👋! My name is Nicoli Santos and I'm a Web Developer from Brazil!</h2>
+<h4>Hi 👋! My name is Nicoli Santos and I'm a Web Developer from Brazil!</h4>
 
 ###
 
