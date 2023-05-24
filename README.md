@@ -1,5 +1,14 @@
 <h3>Hi 👋! My name is Nicoli Santos and I'm a Web Developer from Brazil!</h3>
 
+Here are some ideas to get you started:
+
+- 
+- 
+- 
+- 
+- 
+
+
 ###
 
 <div align="center">
