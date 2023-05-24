@@ -18,8 +18,8 @@
 
 <br />
 <div align="center"> 
- <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghosharnab00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosharnab00&layout=compact&langs_count=7&theme=algolia"/>
+ <img height="150em" alt = "Nicoli Santos Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicksnt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksnt&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
 <br />
