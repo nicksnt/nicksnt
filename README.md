@@ -1,9 +1,8 @@
 <h2>Hi 👋! My name is Nicoli Santos and I'm a Web Developer from Brazil!</h2>
 
-- 
 - Designing websites for aprimorate my skills with HTML, CSS, JavaScript and some frameworks.
-- 
-- 
+- Focused on learning about UI/UX interfaces for building easy-to-use, user-friendly websites.
+- Besides coding, also passioned about cozy games, fantasy books and vintage art.
 
 ###
 
