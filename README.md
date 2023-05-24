@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+<div align="center">
+![](https://komarev.com/ghpvc/?username=nicksnt&color=blueviolet&style=flat-square)
+</div>
