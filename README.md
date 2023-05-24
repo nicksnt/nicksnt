@@ -25,7 +25,7 @@
  
 ### ***Connect with me :***
 
-<div align="center">
+<div>
   <a href="https://www.instagram.com/nniesant/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
