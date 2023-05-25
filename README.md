@@ -1,4 +1,5 @@
-<h2>Hi 👋! My name is Nicoli Santos and I'm a Web Developer from Brazil!</h2>
+<h1 align="center">Hello < Word/ ></h1>
+<h3 align="center"> I'm Nicoli Santos, a passionate Web developer from Brazil</h3>
 
 - Designing websites for aprimorate my skills with HTML, CSS, JavaScript and some frameworks.
 - Focused on learning about UI/UX interfaces for building easy-to-use, user-friendly websites.
