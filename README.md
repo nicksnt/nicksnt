@@ -13,7 +13,7 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 
 <div>
   <a href="https://www.instagram.com/nniesant/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#A9A9E8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=A9A9E8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:nicolidossantos9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=#C6D5FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
