@@ -1,4 +1,4 @@
-<h1 align="center">Hello < Word/ ></h1>
+<h1 align="center">Hello < World/ ></h1>
 <h3 align="center"> I'm Nicoli Santos, a passionate Web developer from Brazil</h3>
 
 - Designing websites for aprimorate my skills with HTML, CSS, JavaScript and some frameworks.
