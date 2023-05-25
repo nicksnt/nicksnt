@@ -1,5 +1,5 @@
 <h1 align="center">Hello < World/ ></h1>
-<h3 align="center"> I'm Nicoli Santos, a passionate Web developer from Brazil</h3>
+<h3 align="center"> I'm Nicoli Santos, a passionate Web developer from Brazil!</h3>
 
 Currently studying to become a Full-Stack-Developer.
   
