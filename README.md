@@ -4,6 +4,8 @@
 - Focused on learning about UI/UX interfaces for building easy-to-use, user-friendly websites.
 - Besides coding, also passioned about cozy games, fantasy books and vintage art.
 
+Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+
 ###
 
 <div align="center">
